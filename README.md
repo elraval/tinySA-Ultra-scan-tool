@@ -7,10 +7,10 @@ Download the files from the SD card into a folder on your computer. Then, execut
 
 The program executes the following operations:
 1) combines all the files present in the folder of your selection;
-2) divides the first value (frequency) by one million, effectively transforming the value from Hz to MHz.
-3) outputes a combined.csv file
+2) divides the first-collumn value (frequency) by one million;
+3) outputs a combined.csv file.
  
-Conversion of the fisrt collumn value is necessary because Shure Wireless Workbench only accepts 2-collumn CSV files formatted in the following format:
+Conversion of the first-collumn value is necessary because Shure Wireless Workbench only accepts 2-collumn CSV files formatted in the following format:
     frequency_in_MHz,amplitude_in_dBm
 
 tinySA Ultra CSV format is the following:
