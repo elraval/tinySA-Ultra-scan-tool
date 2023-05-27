@@ -10,8 +10,8 @@ The program executes the following operations:
  
 Conversion of the first-collumn value is necessary because Shure Wireless Workbench only accepts 2-collumn CSV files formatted in the following format:
 
- *frequency_in_MHz,amplitude_in_dBm*
+ >*frequency_in_MHz,amplitude_in_dBm*
 
 tinySA Ultra CSV format is the following:
 
- *frequency_in_Hz,amplitude_in_dBm*
+ >*frequency_in_Hz,amplitude_in_dBm*
