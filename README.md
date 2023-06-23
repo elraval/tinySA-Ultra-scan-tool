@@ -15,3 +15,5 @@ Conversion of the first-collumn value is necessary because Shure Wireless Workbe
 tinySA Ultra CSV format is the following:
 
  >*frequency_in_Hz,amplitude_in_dBm*
+
+All credit in creating this goes to my dear wife, whose Python skills are ever improving.
